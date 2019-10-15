@@ -2,6 +2,8 @@
 
 An starter React project instrumented with Scope through GitHub Actions.
 
+
+
 This starter project is based on:
 
 - [Create React App](https://github.com/facebook/create-react-app)
